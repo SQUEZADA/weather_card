@@ -12,7 +12,7 @@ body {
   
   .card {
     position: absolute;
-    width: 250px;
+    width: 25vw;
     height: 130px;
     border-radius: 25px;
     background: whitesmoke;
@@ -44,7 +44,7 @@ body {
     position: absolute;
     display: flex;
     flex-direction: row;
-    width: 240px;
+    width: 25vw;
     height: 130px;
     border-radius: 35px;
     background: white;
@@ -118,7 +118,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 240px;
+    width: 25vw;
     height: 30px;
     top: 4.7em;
     left: -2.4em;
